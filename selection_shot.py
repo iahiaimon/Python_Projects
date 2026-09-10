@@ -11,7 +11,7 @@ def selection(nums):
         nums[i] = min_item
 
 list = [4 , 6 , 2 , 10 , 5 , 11 , 8]
-print(f"Before Shorting {list}")
+print(f"Before Sorting {list}")
 
 selection(list)
 print(f"After Sorting {list}")
